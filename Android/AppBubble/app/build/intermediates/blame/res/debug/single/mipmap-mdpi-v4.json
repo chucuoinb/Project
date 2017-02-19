@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Nam\\Desktop\\AppBubble\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Nam\\Desktop\\AppBubble\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\udaysingh\\android-studio-projects\\AppBubble\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\udaysingh\\android-studio-projects\\AppBubble\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\udaysingh\\android-studio-projects\\AppBubble\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\bubble_trash_background.png",
+        "source": "C:\\home\\udaysingh\\android-studio-projects\\AppBubble\\app\\src\\main\\res\\mipmap-mdpi\\bubble_trash_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Nam\\Desktop\\AppBubble\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\bubble_trash_background.png",
+        "source": "C:\\Users\\Nam\\Desktop\\AppBubble\\app\\src\\main\\res\\mipmap-mdpi\\bubble_trash_background.png"
+    }
+]
